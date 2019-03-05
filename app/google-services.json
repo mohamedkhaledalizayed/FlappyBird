@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "167188873986",
+    "firebase_url": "https://flappybird-9e242.firebaseio.com",
+    "project_id": "flappybird-9e242",
+    "storage_bucket": "flappybird-9e242.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:167188873986:android:c23271ae4d5824e3",
+        "android_client_info": {
+          "package_name": "com.coursework.flappybird"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "167188873986-bche6c8aa8arce9nhgpea0968k44o654.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCaap62o37ZxIEEkAoRk_wqK4l-ZNxt3Ng"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
